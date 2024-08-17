@@ -6,8 +6,7 @@ Welcome to the Cyclisitic Case Study repository! This project is part of my Goog
 
 The primary objective of this case study is to:
 1. Understand how Members and Casual customers use cyclistic bikes to design a new marketing strategy to convert Casual customers to Members
-2. Identify key insights that can inform product development and marketing strategies for Bellafit’s Leaf device.
-
+   
 
 ## Dataset
 
