@@ -6,7 +6,11 @@ Welcome to the Cyclisitic Case Study repository! This project is part of my Goog
 
 The primary objective of this case study is to:
 1. Understand how Members and Casual customers use cyclistic bikes to design a new marketing strategy to convert Casual customers to Members
-   
+
+## Key Insight: Members Vs Casual Riders- Ride Duration Comparison
+
+Here is an example chart from the study.
+https://github.com/KellDatatics/Cyclistic-Case-Study/blob/main/Data%20Visuals/DurationWeekday.png?raw=true
 
 ## Dataset
 
