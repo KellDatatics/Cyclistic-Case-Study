@@ -10,7 +10,8 @@ The primary objective of this case study is to:
 ## Key Insight: Members Vs Casual Riders- Ride Duration Comparison
 
 Here is an example chart from the study.
-https://github.com/KellDatatics/Cyclistic-Case-Study/blob/main/Data%20Visuals/DurationWeekday.png?raw=true
+
+![Upload Ride Duration.png](https://github.com/KellDatatics/Cyclistic-Case-Study/blob/main/Data%20Visuals/DurationWeekday.png?raw=true)
 
 ## Dataset
 
